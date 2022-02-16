@@ -23,6 +23,6 @@ int main()
     }
     // loop end 
 
-    cout << "Factorial of " << no << " is " << fac <<endl;  //display output 
+    cout << "Factorial of " << no << " is " << fac <<endl;  //display  output 
     return 0;
 }
