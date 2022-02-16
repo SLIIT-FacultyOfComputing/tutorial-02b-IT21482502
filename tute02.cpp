@@ -45,7 +45,7 @@ int main()
    netSalary = salary + otHrs* otRate; //calculation
 
 
-   std::cout<< "Net Salary is  " << netSalary; //output display
+   std::cout<< "Net Salary is  " << netSalary; //output   display
   
    return 0;
 }
