@@ -43,7 +43,7 @@ long Factorial(int no)   //function Implementation
 
 }
 
-long nCr(int n, int r)  //function Implementation
+long nCr(int n, int r)  //function   Implementation
 {
   long ncr;
 
